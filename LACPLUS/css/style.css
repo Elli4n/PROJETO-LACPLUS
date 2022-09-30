@@ -62,3 +62,7 @@ body {
     color: rgb(66, 66, 231);
     
 }
+.sobrenos{
+    display: flex;
+    text-align: center;
+}
