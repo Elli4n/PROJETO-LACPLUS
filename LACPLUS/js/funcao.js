@@ -1,3 +1,3 @@
-function formresp () {
-    onclick=(submit)
+function formresp() {
+    onclick=(alert("Sua mensagem foi enviada com sucesso, aguarde nossa resposta no seu email."))
 }
