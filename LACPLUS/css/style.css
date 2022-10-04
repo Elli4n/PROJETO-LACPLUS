@@ -60,6 +60,9 @@ body {
     width: 300px;
     height: 200px;
 }
+.texto {
+    padding: 40px;
+}
 .sobrenos{
     display: flex;
     text-align: center;
@@ -104,7 +107,7 @@ button {
 }
 .footer {
     height: 10%;
-    padding: 40px;
+    padding: 30px;
     color: red;
     align-self: flex-end;
     display: flex;
@@ -112,6 +115,8 @@ button {
     align-content: space-around;
     justify-content: space-around;
     align-items: center;
+    clear: both;
+    
 
 }
 .footer ul li {
